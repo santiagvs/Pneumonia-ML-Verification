@@ -1,0 +1,47 @@
+[
+    {
+        "image_path": "C:\\Users\\vc_la\\.cache\\kagglehub\\datasets\\paultimothymooney\\chest-xray-pneumonia\\versions\\2/chest_xray/val\\NORMAL\\NORMAL2-IM-1430-0001.jpeg",
+        "true_label": "NORMAL",
+        "predicted_label": "PNEUMONIA"
+    },
+    {
+        "image_path": "C:\\Users\\vc_la\\.cache\\kagglehub\\datasets\\paultimothymooney\\chest-xray-pneumonia\\versions\\2/chest_xray/val\\NORMAL\\NORMAL2-IM-1431-0001.jpeg",
+        "true_label": "NORMAL",
+        "predicted_label": "PNEUMONIA"
+    },
+    {
+        "image_path": "C:\\Users\\vc_la\\.cache\\kagglehub\\datasets\\paultimothymooney\\chest-xray-pneumonia\\versions\\2/chest_xray/val\\NORMAL\\NORMAL2-IM-1436-0001.jpeg",
+        "true_label": "NORMAL",
+        "predicted_label": "PNEUMONIA"
+    },
+    {
+        "image_path": "C:\\Users\\vc_la\\.cache\\kagglehub\\datasets\\paultimothymooney\\chest-xray-pneumonia\\versions\\2/chest_xray/val\\NORMAL\\NORMAL2-IM-1437-0001.jpeg",
+        "true_label": "NORMAL",
+        "predicted_label": "PNEUMONIA"
+    },
+    {
+        "image_path": "C:\\Users\\vc_la\\.cache\\kagglehub\\datasets\\paultimothymooney\\chest-xray-pneumonia\\versions\\2/chest_xray/val\\NORMAL\\NORMAL2-IM-1438-0001.jpeg",
+        "true_label": "NORMAL",
+        "predicted_label": "PNEUMONIA"
+    },
+    {
+        "image_path": "C:\\Users\\vc_la\\.cache\\kagglehub\\datasets\\paultimothymooney\\chest-xray-pneumonia\\versions\\2/chest_xray/val\\NORMAL\\NORMAL2-IM-1440-0001.jpeg",
+        "true_label": "NORMAL",
+        "predicted_label": "PNEUMONIA"
+    },
+    {
+        "image_path": "C:\\Users\\vc_la\\.cache\\kagglehub\\datasets\\paultimothymooney\\chest-xray-pneumonia\\versions\\2/chest_xray/val\\NORMAL\\NORMAL2-IM-1442-0001.jpeg",
+        "true_label": "NORMAL",
+        "predicted_label": "PNEUMONIA"
+    },
+    {
+        "image_path": "C:\\Users\\vc_la\\.cache\\kagglehub\\datasets\\paultimothymooney\\chest-xray-pneumonia\\versions\\2/chest_xray/val\\PNEUMONIA\\person1946_bacteria_4875.jpeg",
+        "true_label": "PNEUMONIA",
+        "predicted_label": "NORMAL"
+    },
+    {
+        "image_path": "C:\\Users\\vc_la\\.cache\\kagglehub\\datasets\\paultimothymooney\\chest-xray-pneumonia\\versions\\2/chest_xray/val\\PNEUMONIA\\person1952_bacteria_4883.jpeg",
+        "true_label": "PNEUMONIA",
+        "predicted_label": "NORMAL"
+    }
+]
